@@ -1,0 +1,15 @@
+exports[`test App.js 1`] = `
+<div>
+  <h1>
+    Widget list
+  </h1>
+  <ul>
+    <li>
+      Cristian rocks!
+       (ID: 
+      ID12345
+      )
+    </li>
+  </ul>
+</div>
+`;
